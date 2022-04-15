@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+
+}
+
+
+body{
+
+background-color: rgb(89, 106, 176);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+color: rgb(244, 239, 239);
+
+}
+
+
+input{
+    background-color: rgb(184, 213, 223);
+    border: 1px solid black;
+    height: 40px;
+    width: 400px;;
+    margin: 15px;
+    font-family: 'Arial';
+    font-size: 15px;
+    color:rgb(99, 45, 236);
+}
+
+
+
+input:focus{
+
+    border: 5px double rgb(99, 45, 236);
+   
+}
+
+input:hover{
+
+    border: 5px double rgb(99, 45, 236);
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    color:rgb(99, 45, 236);
+}
+
+
+#submit{
+
+    background-color: rgb(99, 45, 236);
+    color:beige;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    border: 5px double beige;
+}
+
